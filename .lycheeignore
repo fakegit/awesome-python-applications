@@ -1,0 +1,53 @@
+# LinkedIn blocks automated requests
+https://www\.linkedin\.com
+
+# Archive.org Wayback Machine URLs can be slow/flaky
+https://web\.archive\.org
+
+# PayPal donation links return 4xx to bots
+https://www\.paypal\.com/cgi-bin
+https://www\.paypal\.me
+
+# Patreon returns 403 to bots
+https://www\.patreon\.com
+
+# SourceForge can be flaky
+http://.*\.sourceforge\.net
+
+# Buy Me a Coffee blocks bots
+https://buymeacoffee\.com
+
+# Ko-fi blocks bots
+https://ko-fi\.com
+
+# Some demo instances may be down
+https://demo\.baby-buddy\.net
+https://sandbox\.getindico\.io
+
+# Reddit blocks automated requests
+https://reddit\.com
+https://www\.reddit\.com
+
+# PyMedusa blocks bots
+https://pymedusa\.com
+
+# Taiga blocks bots
+https://taiga\.io
+
+# CAPEv2 sandbox blocks bots
+https://www\.capesandbox\.com
+
+# CourtListener blocks bots
+https://www\.courtlistener\.com
+
+# Klaus demo blocks some user agents
+http://klausdemo\.lophus\.org
+
+# Dissem.in can be intermittent
+https://dissem\.in
+
+# Mathesar demo can be intermittent
+https://demo\.mathesar\.org
+
+# Scholia/Toolforge intermittent 503
+https://scholia\.toolforge\.org
